@@ -157,6 +157,10 @@ The best model checkpoint (by validation ROC-AUC) is saved as `best_multimodal_e
 
 ---
 
+### Example Prediction
+ 
+![ECG Sample 32 — Ground Truth: STTC, CD | Prediction: STTC, CD](example_image.png)
+
 ## Project Structure
 
 ```
